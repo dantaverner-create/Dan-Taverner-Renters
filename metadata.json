@@ -1,0 +1,7 @@
+{
+  "name": "UK Renters' Rights Advisor",
+  "description": "Expert guidance on the UK Renters' Rights Act 2026, featuring AI-powered text and voice support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
